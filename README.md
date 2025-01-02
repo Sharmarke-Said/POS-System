@@ -1,4 +1,4 @@
-POS: Point Of Sales System using PHP and MySQL
+**POS: Point Of Sales System using PHP and MySQL**
 
  Steps to Set Up and Run the POS System Project:
  **1. Start Apache and MySQL in XAMPP:- Open XAMPP Control Panel on your machine.- Click Start next to Apache and MySQL.**
